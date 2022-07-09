@@ -12,7 +12,7 @@ while True:
 
     s = utils.getPrintNote()
     print(s if logged_in != "true" else "")
-    print("Credits: Mobassar@4u (My Github is: https://github.com/Mobassar4u)" if logged_in != "true" else "")
+    print("Credits: Mobassar4u (My Github is: https://github.com/Mobassar4u)" if logged_in != "true" else "")
     print("====================================")
     print(" Login Status: " + logged_in)
     print("====================================")
